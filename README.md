@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=ahjam-taoufik)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+![My Skills](https://skillicons.dev/icons?i=js,html,css,arduino,bootstrap,bots,docker,firebase,flutter,git,github,graphql,heroku,laravel,linkedin,materialui,mongodb,mysql,netlify,nextjs,nodejs,php,postgres,py,raspberrypi,react,redux,sass,solidity,stackoverflow,tailwind,vscode,wordpress)
+
 
 https://pagespeed-insights.herokuapp.com?url=https://taoufik.netlify.app
 
