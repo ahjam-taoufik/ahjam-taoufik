@@ -18,8 +18,12 @@ Here are some ideas to get you started:
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=ahjam-taoufik)
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 https://pagespeed-insights.herokuapp.com?url=https://taoufik.netlify.app
 
 [![Star History Chart](https://api.star-history.com/svg?repos=bytebase/star-history&type=Date)](https://star-history.com/#bytebase/star-history&Date)
+
+
 
 
