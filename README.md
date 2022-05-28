@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 https://pagespeed-insights.herokuapp.com?url=https://taoufik.netlify.app
 
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+
