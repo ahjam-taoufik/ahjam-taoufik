@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 ![trophy](https://github-profile-trophy.vercel.app/?username=ahjam-taoufik)
 
 https://pagespeed-insights.herokuapp.com?url=https://taoufik.netlify.app
+
+![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
